@@ -1,0 +1,88 @@
+body{
+    background-attachment:scroll;
+    background-color: rgb(180, 223, 240);
+    
+    font-family: 'Roboto Mono', monospace;
+}
+
+#items{
+    font-weight: bold;
+}
+#list{
+    font-weight: bold;
+}
+#mar{
+    color: blue;
+}
+#price{
+    font-weight: bold;
+    margin-left: 40px;
+}
+.bar{
+    border: blueviolet;
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 10px;
+    
+}
+.phones{
+    border-radius: 30px;
+}
+#con{
+    background-image: url(Capture.png);
+    background-repeat: round;
+    font-weight: bold;
+    border-style: double ;
+    border-top:rgb(36, 13, 4);
+    mask-border-width: 30px;
+    
+    
+}
+
+#lis{
+    list-style-type: none;
+}
+#lis a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#lis i{
+    margin-right: 10px;
+}
+.ftr{
+    background-color: rgb(218, 246, 248) ;
+    border-style: solid;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-color: black;
+    border-width: 5px;
+}
+.logo{
+    border-style: double;
+    border-radius: 5px;
+    border-width: 5px;
+}
+#list li{
+    margin-left: 15px;
+}
+#sub{
+    margin-bottom: 20px;
+}
+.small{
+    border-color: blueviolet;
+    border-radius: 10px;
+    border-style: solid;
+    margin-left: 25px;
+}
+.rr{
+    color:rgb(94, 86, 86);
+    text-align: right;
+    font-size: 15px;
+    
+}
